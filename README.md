@@ -2,5 +2,5 @@
 
 Analysing marketing campaigns using pandas
 - Marketing Metrics such as Conversion and Retention Rate 
-- Lift
+- Lift and Significance Testing
 - A/B Testing
