@@ -1,2 +1,6 @@
 # AB_Testing_pandas
-Marketing Metrics such as Conversion and Retention Rate using pandas, matplotlib.
+
+Analysing marketing campaigns using pandas
+- Marketing Metrics such as Conversion and Retention Rate 
+- Lift
+- A/B Testing
